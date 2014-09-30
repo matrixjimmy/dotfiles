@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Please install Latest XCode First!"
+# XCode Mac Store Installation
+open http://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12
+
+# brew install commandline
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
